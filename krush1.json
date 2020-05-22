@@ -17,10 +17,11 @@
 		
 	},
 	{
-		"name": "ShotB",
+		"name": "Krush Fade",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-		"dimensions": "3200x2560",
+		"url": "https://raw.githubusercontent.com/sTl2yk3l2/Krush-Wallpapers/master/wallpaper_krush.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/sTl2yk3l2/Krush-Wallpapers/master/wallpaper_krush_small.jpg",
+		"dimensions": "960x854",
 		"collections": "people,city",
 		"downloadable": false
 	},
